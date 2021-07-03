@@ -1318,7 +1318,7 @@
         "signature": "e0209f76544838f42150bccec0103aee3bc26edd64feb1c2dce0176018012ef4"
       },
       "./src/application.ts": {
-        "version": "3b87367df31f2d155337e3a8ae140ca56e0ba44ae6c4c93a6bf6c5f665a0d50e",
+        "version": "41f75e776b65c574e56301a9bdf122e1189f16b1e6b09884b254c7cb8899410a",
         "signature": "c2691ebf44256a356633c3fb9bfc9de4bd429fe80a8c2a70ac76a37493ca7257"
       },
       "./src/index.ts": {
