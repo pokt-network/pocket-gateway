@@ -1317,6 +1317,154 @@
         "version": "e0209f76544838f42150bccec0103aee3bc26edd64feb1c2dce0176018012ef4",
         "signature": "e0209f76544838f42150bccec0103aee3bc26edd64feb1c2dce0176018012ef4"
       },
+      "./src/application.ts": {
+        "version": "3b87367df31f2d155337e3a8ae140ca56e0ba44ae6c4c93a6bf6c5f665a0d50e",
+        "signature": "c2691ebf44256a356633c3fb9bfc9de4bd429fe80a8c2a70ac76a37493ca7257"
+      },
+      "./src/index.ts": {
+        "version": "e00e68920bdc16e2b77b5f3d5b575d98864f2220414d3a61dfa4189f76552082",
+        "signature": "2c1e64b6cdfbeb152eb10a597e4d5a1b27e04726fb02f95b0699101fedddf3ed"
+      },
+      "./src/migrate.ts": {
+        "version": "e66e374a6eed205c62cf538c1fc98ed4be9d3457ea97e7fc16295daa60b7eb91",
+        "signature": "d289609b56df6411204c89f5197dc2d4d19910336a10c86cd9b3af21b22e344d"
+      },
+      "./node_modules/@types/cookiejar/index.d.ts": {
+        "version": "8d48b8f8a377ade8dd1f000625bc276eea067f2529cc9cafdf082d17142107d6",
+        "signature": "8d48b8f8a377ade8dd1f000625bc276eea067f2529cc9cafdf082d17142107d6"
+      },
+      "./node_modules/@types/superagent/index.d.ts": {
+        "version": "5ea07f5b82ba98f3d53bef789553b6a87294097caf758de104ea7d476d6a8385",
+        "signature": "5ea07f5b82ba98f3d53bef789553b6a87294097caf758de104ea7d476d6a8385"
+      },
+      "./node_modules/@types/supertest/index.d.ts": {
+        "version": "e57360b3f53ec41ed30cfb0eaed6e689be92bf311d7c25175a4e127f46158079",
+        "signature": "e57360b3f53ec41ed30cfb0eaed6e689be92bf311d7c25175a4e127f46158079"
+      },
+      "./node_modules/@loopback/testlab/dist/client.d.ts": {
+        "version": "d33fe7df13cb34fa58fcd9fc11c052dd905c05172185a3a5a31b736501c2a629",
+        "signature": "d33fe7df13cb34fa58fcd9fc11c052dd905c05172185a3a5a31b736501c2a629"
+      },
+      "./node_modules/@loopback/testlab/should-as-function.d.ts": {
+        "version": "e0bcc7ecaf53e76bf21f3660a85db7eedeb36ceeb58969801858095658d1428d",
+        "signature": "e0bcc7ecaf53e76bf21f3660a85db7eedeb36ceeb58969801858095658d1428d"
+      },
+      "./node_modules/@loopback/testlab/dist/expect.d.ts": {
+        "version": "5791b63ac312a792f888401243acd5084f27c2c76792d436fa68e9581a74bd6d",
+        "signature": "5791b63ac312a792f888401243acd5084f27c2c76792d436fa68e9581a74bd6d"
+      },
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": {
+        "version": "1d965675096492c8b8634e95d2ba80df0937100c1ca1a4be0aa521f2fcf4e679",
+        "signature": "1d965675096492c8b8634e95d2ba80df0937100c1ca1a4be0aa521f2fcf4e679"
+      },
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": {
+        "version": "915ad988fcef8653bc578f63739303346d761aa6d462d4bc4ef8579ad7df6766",
+        "signature": "915ad988fcef8653bc578f63739303346d761aa6d462d4bc4ef8579ad7df6766"
+      },
+      "./node_modules/@loopback/testlab/dist/request.d.ts": {
+        "version": "87c409fe1f923e4449a75e4c07dd939436e9c8f76b834fb44a6937147867813d",
+        "signature": "87c409fe1f923e4449a75e4c07dd939436e9c8f76b834fb44a6937147867813d"
+      },
+      "./node_modules/@types/shot/index.d.ts": {
+        "version": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea",
+        "signature": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea"
+      },
+      "./node_modules/@loopback/testlab/dist/shot.d.ts": {
+        "version": "c35b3b6ef644c4144c767d0ef2573b32b79cd989d84e266a73f0c8966dc0ef97",
+        "signature": "c35b3b6ef644c4144c767d0ef2573b32b79cd989d84e266a73f0c8966dc0ef97"
+      },
+      "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts": {
+        "version": "b79a450a5233f10fa43da81c35a17f8eec71fea394d0ff91620819e0af513fe9",
+        "signature": "b79a450a5233f10fa43da81c35a17f8eec71fea394d0ff91620819e0af513fe9"
+      },
+      "./node_modules/@types/sinon/index.d.ts": {
+        "version": "fc8a86547dc1da127bad3a5c71137b9e8bb9de3c91df12869dd52e3ff2346e61",
+        "signature": "fc8a86547dc1da127bad3a5c71137b9e8bb9de3c91df12869dd52e3ff2346e61"
+      },
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts": {
+        "version": "451d3238632a48b1d487785be7ad51904238a63a593884d1b9cb4cefd51c31d0",
+        "signature": "451d3238632a48b1d487785be7ad51904238a63a593884d1b9cb4cefd51c31d0"
+      },
+      "./node_modules/@loopback/testlab/dist/skip.d.ts": {
+        "version": "049893f64a1b25accec1fdb7d40dc8d8d8c08d6db07d321092c4124373c9e381",
+        "signature": "049893f64a1b25accec1fdb7d40dc8d8d8c08d6db07d321092c4124373c9e381"
+      },
+      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts": {
+        "version": "c09d3d8964ff66481d085b2702fb5295a94756dce4739beda789b11b89c3aaca",
+        "signature": "c09d3d8964ff66481d085b2702fb5295a94756dce4739beda789b11b89c3aaca"
+      },
+      "./node_modules/@loopback/testlab/dist/to-json.d.ts": {
+        "version": "d22280c29a0d4d6acba8968091ed9b772946c78e36d4b0cb7eca1803b8b8c2f0",
+        "signature": "d22280c29a0d4d6acba8968091ed9b772946c78e36d4b0cb7eca1803b8b8c2f0"
+      },
+      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts": {
+        "version": "8730131999f563de6b559e35f6253007cd311e676e9d17999c9287dd3e11e618",
+        "signature": "8730131999f563de6b559e35f6253007cd311e676e9d17999c9287dd3e11e618"
+      },
+      "./node_modules/@loopback/testlab/dist/index.d.ts": {
+        "version": "38992be86825669bca9d84dfa17319e89c30969e05ba85d9c7f99dbc9c2eb83f",
+        "signature": "38992be86825669bca9d84dfa17319e89c30969e05ba85d9c7f99dbc9c2eb83f"
+      },
+      "./src/__tests__/acceptance/test-helper.ts": {
+        "version": "39c10614f4a38c537cb31e28d753c1acf30b7746e47367cbe03422cb48d0ff5c",
+        "signature": "c8dfa8356ac17614a075ea3c69342a236544c47e2cb98581f7a15be64fc1ba83"
+      },
+      "./src/__tests__/acceptance/home-page.acceptance.ts": {
+        "version": "a819ec42b8bde79f4e7a1a30a4737f50a19046b2220b462d281f69ab2be3b24d",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "./src/__tests__/acceptance/ping.controller.acceptance.ts": {
+        "version": "219bde9d1db15cea0abb6df76189db3e2ac48395cf37c132aecab8faa46ae291",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "./src/models/blockchains.model.ts": {
+        "version": "9ab021f8ccbfa182a354d662aa2e363ea398caa13fcf1fef7d5c51e9b79de3d4",
+        "signature": "a793129cf3a29c2f2c4e920cd9a4dfd98fef8ff0c5e4bdb2a14bb8397e9cbc33"
+      },
+      "./src/models/applications.model.ts": {
+        "version": "98b18c555b3e2725bf9535405688f0e980f888026c87cdb7d015f1c02fbdb3ad",
+        "signature": "90363c3cd94f92e59335e0b417c5b076459e60cf6b82018019144229dff174ca"
+      },
+      "./src/models/load-balancers.model.ts": {
+        "version": "34a2ec0df689513a9c0da75998fbf202b985133ed6245af2ed07647adb2a3099",
+        "signature": "189a3d8561e8e7a7d4e7d2fee3c806014304916daef88219af9759a3c4850938"
+      },
+      "./src/models/index.ts": {
+        "version": "8909c266b77c849e7e2e301f040db97c94dd318c51e088948f51e2c94fbb5bbb",
+        "signature": "8909c266b77c849e7e2e301f040db97c94dd318c51e088948f51e2c94fbb5bbb"
+      },
+      "./src/datasources/gateway.datasource.ts": {
+        "version": "cd1a466df78094f34036be8ef842dd6fc917bf4e7c2522e53a8ea09dffe2a2b7",
+        "signature": "882e92e6dfb6b1a3a70784e86c6bd8cbe243b830f938fef2a00568c71e08ca00"
+      },
+      "./src/datasources/index.ts": {
+        "version": "c3c7f74b332c3817aba95cabb9f62f36af691e13d9c6f8d92974607924242919",
+        "signature": "c3c7f74b332c3817aba95cabb9f62f36af691e13d9c6f8d92974607924242919"
+      },
+      "./src/repositories/blockchains.repository.ts": {
+        "version": "7798d189e59654d84d9015f4679bcf388ce48eb66b16f916aafd1f76149206a3",
+        "signature": "3bca2a5251f65752e3a623ece542271502ee1b029cc00cf8d0cda32f7ab153a6"
+      },
+      "./src/repositories/applications.repository.ts": {
+        "version": "e97935421d5e3aee066dcca59e95e046b96c59398a90188a12f63afff0334d81",
+        "signature": "1ce0a430b6a96a61e2c9ade7e10aff905447a76feeb7c2ad0608ebc4dafefcd2"
+      },
+      "./src/repositories/load-balancers.repository.ts": {
+        "version": "d0dbe23ea46a76eabc76276430735cdf99390570a46d87290eaba6435865cb2c",
+        "signature": "5d43f55098f511dd85c449bbad77e5d23e39d99cf43a2b0901c9d19a1a32aa3f"
+      },
+      "./src/repositories/index.ts": {
+        "version": "2b96d3bc206857eebcddc961a4a3da8f3f1af0eb2d5593b2f27bea109f718ee3",
+        "signature": "2b96d3bc206857eebcddc961a4a3da8f3f1af0eb2d5593b2f27bea109f718ee3"
+      },
+      "./src/controllers/blockchains.controller.ts": {
+        "version": "4aada272511d1a2def3d464a805ace8d6368a39585d07a8a7e83c2566982e9ff",
+        "signature": "976543577429681f8edd3c39e1ea422806c2cdeb5201ca186b69c4b33007ad6e"
+      },
+      "./src/controllers/ping.controller.ts": {
+        "version": "345e766a5a8233c79f1c11b09cfcd1b635bc462ace7ae1ce6b84b3fd8078384d",
+        "signature": "80e3e158fbbb22cab068c3f91ec262086822f90ca629e02984060b8caf571993"
+      },
       "./node_modules/@pokt-network/pocket-js/dist/config/configuration.d.ts": {
         "version": "43db7740e08820daad696569807bf4cde7c15a5a3df2966df08e876911df2984",
         "signature": "43db7740e08820daad696569807bf4cde7c15a5a3df2966df08e876911df2984"
@@ -1690,12 +1838,12 @@
         "signature": "2c79a4f53b84ee8fe3fd2cce134f93c882dda71bf6e31df5821f144531c5faad"
       },
       "./node_modules/@pokt-network/pocket-js/dist/utils/base-profiler.d.ts": {
-        "version": "7cfb6da9e890756ddf5d58f2533deddfe5829646ecdb3b26ad62a572c3502f1a",
-        "signature": "7cfb6da9e890756ddf5d58f2533deddfe5829646ecdb3b26ad62a572c3502f1a"
+        "version": "08678f11c059023ecc7baf430b91ab9e896e7dd963c67b5df40150b86905c325",
+        "signature": "08678f11c059023ecc7baf430b91ab9e896e7dd963c67b5df40150b86905c325"
       },
       "./node_modules/@pokt-network/pocket-js/dist/pocket.d.ts": {
-        "version": "9e38c0018b54319bcd4c2196d89893052d0c96207eee1ff54b01791179e8b065",
-        "signature": "9e38c0018b54319bcd4c2196d89893052d0c96207eee1ff54b01791179e8b065"
+        "version": "2069cccab8b6efbc904a6e2ada2b5887ff69463e0e838573b3b1934aace66934",
+        "signature": "2069cccab8b6efbc904a6e2ada2b5887ff69463e0e838573b3b1934aace66934"
       },
       "./node_modules/@pokt-network/pocket-js/dist/rpc/providers/pocket-rpc-provider.d.ts": {
         "version": "1e6a7ac548677a5f0ea744d3c2397df7b1aacfc4cf7ca11fe35b282e40fc45dc",
@@ -1882,8 +2030,8 @@
         "signature": "d416bca7efa797d11d0b5d165f4a5e122b8724c073a5a592fe9a3a02381c8891"
       },
       "./node_modules/@pokt-network/pocket-js/dist/utils/no-op-profiler.d.ts": {
-        "version": "5b4d885f98088840dd901d4be1a54693aadc4a4a809f2d8035799d0679800d22",
-        "signature": "5b4d885f98088840dd901d4be1a54693aadc4a4a809f2d8035799d0679800d22"
+        "version": "360223fb3b570d313cb2637481a3c609a37c9de78804f3f4db166b8aefe7f7e1",
+        "signature": "360223fb3b570d313cb2637481a3c609a37c9de78804f3f4db166b8aefe7f7e1"
       },
       "./node_modules/@pokt-network/pocket-js/dist/utils/type-guard.d.ts": {
         "version": "1ecc6d639b8943315d964e4926ed36343a9bc8c937af929593a3c8730a1f32f0",
@@ -1905,6 +2053,10 @@
         "version": "47470ea3c908d371659cf2e3273b2e39a5fde524a1bcd633bf5ad192d806f86d",
         "signature": "47470ea3c908d371659cf2e3273b2e39a5fde524a1bcd633bf5ad192d806f86d"
       },
+      "./node_modules/@types/ioredis/index.d.ts": {
+        "version": "da0d877bc22bd961aa9aec36bc0d02524f21abb08b645eb9335ce0079426c24a",
+        "signature": "da0d877bc22bd961aa9aec36bc0d02524f21abb08b645eb9335ce0079426c24a"
+      },
       "./node_modules/pg-types/index.d.ts": {
         "version": "f60e3e3060207ac982da13363181fd7ee4beecc19a7c569f0d6bb034331066c2",
         "signature": "f60e3e3060207ac982da13363181fd7ee4beecc19a7c569f0d6bb034331066c2"
@@ -1912,162 +2064,6 @@
       "./node_modules/@types/pg/index.d.ts": {
         "version": "ce3c16bd239d4345a1ffabff3dcbb5025d281292742f4cfa5a29398b815bbb60",
         "signature": "ce3c16bd239d4345a1ffabff3dcbb5025d281292742f4cfa5a29398b815bbb60"
-      },
-      "./src/services/relay-profiler.ts": {
-        "version": "6d8d4173c7fa9d08655e8ccf350b3eb30877cf4b6fa4df09ef923552f3219217",
-        "signature": "ff8e9b000db6b9db543b5c807908b2de8a24d1616379e7419d949d6b4e8a33bd"
-      },
-      "./src/application.ts": {
-        "version": "660e97aaa6cc0a72af6ae731db5aa4f2a548a16b6b599ea5366c3336827f1f59",
-        "signature": "c2691ebf44256a356633c3fb9bfc9de4bd429fe80a8c2a70ac76a37493ca7257"
-      },
-      "./src/index.ts": {
-        "version": "e00e68920bdc16e2b77b5f3d5b575d98864f2220414d3a61dfa4189f76552082",
-        "signature": "2c1e64b6cdfbeb152eb10a597e4d5a1b27e04726fb02f95b0699101fedddf3ed"
-      },
-      "./src/migrate.ts": {
-        "version": "e66e374a6eed205c62cf538c1fc98ed4be9d3457ea97e7fc16295daa60b7eb91",
-        "signature": "d289609b56df6411204c89f5197dc2d4d19910336a10c86cd9b3af21b22e344d"
-      },
-      "./node_modules/@types/cookiejar/index.d.ts": {
-        "version": "8d48b8f8a377ade8dd1f000625bc276eea067f2529cc9cafdf082d17142107d6",
-        "signature": "8d48b8f8a377ade8dd1f000625bc276eea067f2529cc9cafdf082d17142107d6"
-      },
-      "./node_modules/@types/superagent/index.d.ts": {
-        "version": "5ea07f5b82ba98f3d53bef789553b6a87294097caf758de104ea7d476d6a8385",
-        "signature": "5ea07f5b82ba98f3d53bef789553b6a87294097caf758de104ea7d476d6a8385"
-      },
-      "./node_modules/@types/supertest/index.d.ts": {
-        "version": "e57360b3f53ec41ed30cfb0eaed6e689be92bf311d7c25175a4e127f46158079",
-        "signature": "e57360b3f53ec41ed30cfb0eaed6e689be92bf311d7c25175a4e127f46158079"
-      },
-      "./node_modules/@loopback/testlab/dist/client.d.ts": {
-        "version": "d33fe7df13cb34fa58fcd9fc11c052dd905c05172185a3a5a31b736501c2a629",
-        "signature": "d33fe7df13cb34fa58fcd9fc11c052dd905c05172185a3a5a31b736501c2a629"
-      },
-      "./node_modules/@loopback/testlab/should-as-function.d.ts": {
-        "version": "e0bcc7ecaf53e76bf21f3660a85db7eedeb36ceeb58969801858095658d1428d",
-        "signature": "e0bcc7ecaf53e76bf21f3660a85db7eedeb36ceeb58969801858095658d1428d"
-      },
-      "./node_modules/@loopback/testlab/dist/expect.d.ts": {
-        "version": "5791b63ac312a792f888401243acd5084f27c2c76792d436fa68e9581a74bd6d",
-        "signature": "5791b63ac312a792f888401243acd5084f27c2c76792d436fa68e9581a74bd6d"
-      },
-      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": {
-        "version": "1d965675096492c8b8634e95d2ba80df0937100c1ca1a4be0aa521f2fcf4e679",
-        "signature": "1d965675096492c8b8634e95d2ba80df0937100c1ca1a4be0aa521f2fcf4e679"
-      },
-      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": {
-        "version": "915ad988fcef8653bc578f63739303346d761aa6d462d4bc4ef8579ad7df6766",
-        "signature": "915ad988fcef8653bc578f63739303346d761aa6d462d4bc4ef8579ad7df6766"
-      },
-      "./node_modules/@loopback/testlab/dist/request.d.ts": {
-        "version": "87c409fe1f923e4449a75e4c07dd939436e9c8f76b834fb44a6937147867813d",
-        "signature": "87c409fe1f923e4449a75e4c07dd939436e9c8f76b834fb44a6937147867813d"
-      },
-      "./node_modules/@types/shot/index.d.ts": {
-        "version": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea",
-        "signature": "1858582b6b5b66476d2885696bd490e58d7a2eb0d48f505e214967ca00acd0ea"
-      },
-      "./node_modules/@loopback/testlab/dist/shot.d.ts": {
-        "version": "c35b3b6ef644c4144c767d0ef2573b32b79cd989d84e266a73f0c8966dc0ef97",
-        "signature": "c35b3b6ef644c4144c767d0ef2573b32b79cd989d84e266a73f0c8966dc0ef97"
-      },
-      "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts": {
-        "version": "b79a450a5233f10fa43da81c35a17f8eec71fea394d0ff91620819e0af513fe9",
-        "signature": "b79a450a5233f10fa43da81c35a17f8eec71fea394d0ff91620819e0af513fe9"
-      },
-      "./node_modules/@types/sinon/index.d.ts": {
-        "version": "fc8a86547dc1da127bad3a5c71137b9e8bb9de3c91df12869dd52e3ff2346e61",
-        "signature": "fc8a86547dc1da127bad3a5c71137b9e8bb9de3c91df12869dd52e3ff2346e61"
-      },
-      "./node_modules/@loopback/testlab/dist/sinon.d.ts": {
-        "version": "451d3238632a48b1d487785be7ad51904238a63a593884d1b9cb4cefd51c31d0",
-        "signature": "451d3238632a48b1d487785be7ad51904238a63a593884d1b9cb4cefd51c31d0"
-      },
-      "./node_modules/@loopback/testlab/dist/skip.d.ts": {
-        "version": "049893f64a1b25accec1fdb7d40dc8d8d8c08d6db07d321092c4124373c9e381",
-        "signature": "049893f64a1b25accec1fdb7d40dc8d8d8c08d6db07d321092c4124373c9e381"
-      },
-      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts": {
-        "version": "c09d3d8964ff66481d085b2702fb5295a94756dce4739beda789b11b89c3aaca",
-        "signature": "c09d3d8964ff66481d085b2702fb5295a94756dce4739beda789b11b89c3aaca"
-      },
-      "./node_modules/@loopback/testlab/dist/to-json.d.ts": {
-        "version": "d22280c29a0d4d6acba8968091ed9b772946c78e36d4b0cb7eca1803b8b8c2f0",
-        "signature": "d22280c29a0d4d6acba8968091ed9b772946c78e36d4b0cb7eca1803b8b8c2f0"
-      },
-      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts": {
-        "version": "8730131999f563de6b559e35f6253007cd311e676e9d17999c9287dd3e11e618",
-        "signature": "8730131999f563de6b559e35f6253007cd311e676e9d17999c9287dd3e11e618"
-      },
-      "./node_modules/@loopback/testlab/dist/index.d.ts": {
-        "version": "38992be86825669bca9d84dfa17319e89c30969e05ba85d9c7f99dbc9c2eb83f",
-        "signature": "38992be86825669bca9d84dfa17319e89c30969e05ba85d9c7f99dbc9c2eb83f"
-      },
-      "./src/__tests__/acceptance/test-helper.ts": {
-        "version": "39c10614f4a38c537cb31e28d753c1acf30b7746e47367cbe03422cb48d0ff5c",
-        "signature": "c8dfa8356ac17614a075ea3c69342a236544c47e2cb98581f7a15be64fc1ba83"
-      },
-      "./src/__tests__/acceptance/home-page.acceptance.ts": {
-        "version": "a819ec42b8bde79f4e7a1a30a4737f50a19046b2220b462d281f69ab2be3b24d",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
-      },
-      "./src/__tests__/acceptance/ping.controller.acceptance.ts": {
-        "version": "219bde9d1db15cea0abb6df76189db3e2ac48395cf37c132aecab8faa46ae291",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
-      },
-      "./src/models/blockchains.model.ts": {
-        "version": "9ab021f8ccbfa182a354d662aa2e363ea398caa13fcf1fef7d5c51e9b79de3d4",
-        "signature": "a793129cf3a29c2f2c4e920cd9a4dfd98fef8ff0c5e4bdb2a14bb8397e9cbc33"
-      },
-      "./src/models/applications.model.ts": {
-        "version": "98b18c555b3e2725bf9535405688f0e980f888026c87cdb7d015f1c02fbdb3ad",
-        "signature": "90363c3cd94f92e59335e0b417c5b076459e60cf6b82018019144229dff174ca"
-      },
-      "./src/models/load-balancers.model.ts": {
-        "version": "34a2ec0df689513a9c0da75998fbf202b985133ed6245af2ed07647adb2a3099",
-        "signature": "189a3d8561e8e7a7d4e7d2fee3c806014304916daef88219af9759a3c4850938"
-      },
-      "./src/models/index.ts": {
-        "version": "8909c266b77c849e7e2e301f040db97c94dd318c51e088948f51e2c94fbb5bbb",
-        "signature": "8909c266b77c849e7e2e301f040db97c94dd318c51e088948f51e2c94fbb5bbb"
-      },
-      "./src/datasources/gateway.datasource.ts": {
-        "version": "cd1a466df78094f34036be8ef842dd6fc917bf4e7c2522e53a8ea09dffe2a2b7",
-        "signature": "882e92e6dfb6b1a3a70784e86c6bd8cbe243b830f938fef2a00568c71e08ca00"
-      },
-      "./src/datasources/index.ts": {
-        "version": "c3c7f74b332c3817aba95cabb9f62f36af691e13d9c6f8d92974607924242919",
-        "signature": "c3c7f74b332c3817aba95cabb9f62f36af691e13d9c6f8d92974607924242919"
-      },
-      "./src/repositories/blockchains.repository.ts": {
-        "version": "7798d189e59654d84d9015f4679bcf388ce48eb66b16f916aafd1f76149206a3",
-        "signature": "3bca2a5251f65752e3a623ece542271502ee1b029cc00cf8d0cda32f7ab153a6"
-      },
-      "./src/repositories/applications.repository.ts": {
-        "version": "e97935421d5e3aee066dcca59e95e046b96c59398a90188a12f63afff0334d81",
-        "signature": "1ce0a430b6a96a61e2c9ade7e10aff905447a76feeb7c2ad0608ebc4dafefcd2"
-      },
-      "./src/repositories/load-balancers.repository.ts": {
-        "version": "d0dbe23ea46a76eabc76276430735cdf99390570a46d87290eaba6435865cb2c",
-        "signature": "5d43f55098f511dd85c449bbad77e5d23e39d99cf43a2b0901c9d19a1a32aa3f"
-      },
-      "./src/repositories/index.ts": {
-        "version": "2b96d3bc206857eebcddc961a4a3da8f3f1af0eb2d5593b2f27bea109f718ee3",
-        "signature": "2b96d3bc206857eebcddc961a4a3da8f3f1af0eb2d5593b2f27bea109f718ee3"
-      },
-      "./src/controllers/blockchains.controller.ts": {
-        "version": "4aada272511d1a2def3d464a805ace8d6368a39585d07a8a7e83c2566982e9ff",
-        "signature": "976543577429681f8edd3c39e1ea422806c2cdeb5201ca186b69c4b33007ad6e"
-      },
-      "./src/controllers/ping.controller.ts": {
-        "version": "345e766a5a8233c79f1c11b09cfcd1b635bc462ace7ae1ce6b84b3fd8078384d",
-        "signature": "80e3e158fbbb22cab068c3f91ec262086822f90ca629e02984060b8caf571993"
-      },
-      "./node_modules/@types/ioredis/index.d.ts": {
-        "version": "da0d877bc22bd961aa9aec36bc0d02524f21abb08b645eb9335ce0079426c24a",
-        "signature": "da0d877bc22bd961aa9aec36bc0d02524f21abb08b645eb9335ce0079426c24a"
       },
       "./src/services/cherry-picker.ts": {
         "version": "d7d98bb1098c80475b344605239f86e0c8b5fa028bcaf9b7d0c36e8bb70316ea",
@@ -2155,6 +2151,10 @@
       },
       "./src/services/logger.ts": {
         "version": "d4a22658a3360525e54e18f2b14bd2a0bb60e70af63f5f86061d49625c36898f",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "./src/services/relay-profiler.ts": {
+        "version": "3f2b5ed43f727904b51ac75d3000adf98af886837f2f10b8ffce9696425d568b",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "./node_modules/@types/aes-js/index.d.ts": {
@@ -3653,6 +3653,153 @@
       "./node_modules/@pokt-network/pocket-js/dist/keybase/models/account.d.ts": [
         "./node_modules/@types/node/index.d.ts"
       ],
+      "./src/application.ts": [
+        "./node_modules/@loopback/boot/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./node_modules/@loopback/rest/index.d.ts",
+        "./node_modules/@loopback/service-proxy/dist/index.d.ts",
+        "./src/sequence.ts",
+        "./node_modules/@pokt-network/pocket-js/dist/keybase/models/account.d.ts",
+        "./node_modules/@types/node/path.d.ts"
+      ],
+      "./src/index.ts": [
+        "./src/application.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
+      ],
+      "./src/migrate.ts": [
+        "./src/application.ts"
+      ],
+      "./node_modules/@types/superagent/index.d.ts": [
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/cookiejar/index.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@types/supertest/index.d.ts": [
+        "./node_modules/@types/superagent/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/client.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/supertest/index.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/expect.d.ts": [
+        "./node_modules/@loopback/testlab/should-as-function.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": [
+        "./node_modules/@types/express/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": [
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/request.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@types/shot/index.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/shot.d.ts": [
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/shot/index.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@types/sinon/index.d.ts": [
+        "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts": [
+        "./node_modules/@types/sinon/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/index.d.ts": [
+        "./node_modules/@loopback/testlab/dist/client.d.ts",
+        "./node_modules/@loopback/testlab/dist/expect.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
+        "./node_modules/@loopback/testlab/dist/request.d.ts",
+        "./node_modules/@loopback/testlab/dist/shot.d.ts",
+        "./node_modules/@loopback/testlab/dist/sinon.d.ts",
+        "./node_modules/@loopback/testlab/dist/skip.d.ts",
+        "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
+        "./node_modules/@loopback/testlab/dist/to-json.d.ts",
+        "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts"
+      ],
+      "./src/__tests__/acceptance/test-helper.ts": [
+        "./src/index.ts",
+        "./node_modules/@loopback/testlab/dist/index.d.ts"
+      ],
+      "./src/__tests__/acceptance/home-page.acceptance.ts": [
+        "./node_modules/@loopback/testlab/dist/index.d.ts",
+        "./src/index.ts",
+        "./src/__tests__/acceptance/test-helper.ts"
+      ],
+      "./src/__tests__/acceptance/ping.controller.acceptance.ts": [
+        "./node_modules/@loopback/testlab/dist/index.d.ts",
+        "./src/index.ts",
+        "./src/__tests__/acceptance/test-helper.ts"
+      ],
+      "./src/models/blockchains.model.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/models/applications.model.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/models/load-balancers.model.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/models/index.ts": [
+        "./src/models/blockchains.model.ts",
+        "./src/models/applications.model.ts",
+        "./src/models/load-balancers.model.ts"
+      ],
+      "./src/datasources/gateway.datasource.ts": [
+        "./node_modules/@loopback/core/dist/index.d.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./node_modules/@loopback/rest/index.d.ts"
+      ],
+      "./src/datasources/index.ts": [
+        "./src/datasources/gateway.datasource.ts"
+      ],
+      "./src/repositories/blockchains.repository.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./src/models/index.ts",
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
+      ],
+      "./src/repositories/applications.repository.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./src/models/index.ts",
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
+      ],
+      "./src/repositories/load-balancers.repository.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./src/models/index.ts",
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
+      ],
+      "./src/repositories/index.ts": [
+        "./src/repositories/blockchains.repository.ts",
+        "./src/repositories/applications.repository.ts",
+        "./src/repositories/load-balancers.repository.ts"
+      ],
+      "./src/controllers/blockchains.controller.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./node_modules/@loopback/rest/index.d.ts",
+        "./src/models/index.ts",
+        "./src/repositories/index.ts"
+      ],
+      "./src/controllers/ping.controller.ts": [
+        "./node_modules/@loopback/rest/index.d.ts",
+        "./node_modules/@loopback/context/dist/index.d.ts"
+      ],
       "./node_modules/@pokt-network/pocket-js/dist/config/index.d.ts": [
         "./node_modules/@pokt-network/pocket-js/dist/config/configuration.d.ts"
       ],
@@ -4200,170 +4347,18 @@
         "./node_modules/@pokt-network/pocket-js/dist/utils/index.d.ts",
         "./node_modules/@pokt-network/pocket-js/dist/pocket.d.ts"
       ],
+      "./node_modules/@types/ioredis/index.d.ts": [
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
       "./node_modules/@types/pg/index.d.ts": [
         "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/stream.d.ts",
         "./node_modules/pg-types/index.d.ts",
         "./node_modules/@types/node/tls.d.ts",
         "./node_modules/@types/pg/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./src/services/relay-profiler.ts": [
-        "./node_modules/@pokt-network/pocket-js/dist/index.d.ts",
-        "./node_modules/@types/pg/index.d.ts"
-      ],
-      "./src/application.ts": [
-        "./node_modules/@loopback/boot/dist/index.d.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./node_modules/@loopback/rest/index.d.ts",
-        "./node_modules/@loopback/service-proxy/dist/index.d.ts",
-        "./src/sequence.ts",
-        "./node_modules/@pokt-network/pocket-js/dist/keybase/models/account.d.ts",
-        "./src/services/relay-profiler.ts",
-        "./node_modules/@types/node/path.d.ts"
-      ],
-      "./src/index.ts": [
-        "./src/application.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts"
-      ],
-      "./src/migrate.ts": [
-        "./src/application.ts"
-      ],
-      "./node_modules/@types/superagent/index.d.ts": [
-        "./node_modules/@types/node/fs.d.ts",
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/cookiejar/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@types/supertest/index.d.ts": [
-        "./node_modules/@types/superagent/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/client.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/supertest/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/expect.d.ts": [
-        "./node_modules/@loopback/testlab/should-as-function.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": [
-        "./node_modules/@types/express/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": [
-        "./node_modules/@types/node/https.d.ts",
-        "./node_modules/@types/node/net.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/request.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/https.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@types/shot/index.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/shot.d.ts": [
-        "./node_modules/@types/express/index.d.ts",
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/shot/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@types/sinon/index.d.ts": [
-        "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/sinon.d.ts": [
-        "./node_modules/@types/sinon/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/index.d.ts": [
-        "./node_modules/@loopback/testlab/dist/client.d.ts",
-        "./node_modules/@loopback/testlab/dist/expect.d.ts",
-        "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
-        "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
-        "./node_modules/@loopback/testlab/dist/request.d.ts",
-        "./node_modules/@loopback/testlab/dist/shot.d.ts",
-        "./node_modules/@loopback/testlab/dist/sinon.d.ts",
-        "./node_modules/@loopback/testlab/dist/skip.d.ts",
-        "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
-        "./node_modules/@loopback/testlab/dist/to-json.d.ts",
-        "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts"
-      ],
-      "./src/__tests__/acceptance/test-helper.ts": [
-        "./src/index.ts",
-        "./node_modules/@loopback/testlab/dist/index.d.ts"
-      ],
-      "./src/__tests__/acceptance/home-page.acceptance.ts": [
-        "./node_modules/@loopback/testlab/dist/index.d.ts",
-        "./src/index.ts",
-        "./src/__tests__/acceptance/test-helper.ts"
-      ],
-      "./src/__tests__/acceptance/ping.controller.acceptance.ts": [
-        "./node_modules/@loopback/testlab/dist/index.d.ts",
-        "./src/index.ts",
-        "./src/__tests__/acceptance/test-helper.ts"
-      ],
-      "./src/models/blockchains.model.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/models/applications.model.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/models/load-balancers.model.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/models/index.ts": [
-        "./src/models/blockchains.model.ts",
-        "./src/models/applications.model.ts",
-        "./src/models/load-balancers.model.ts"
-      ],
-      "./src/datasources/gateway.datasource.ts": [
-        "./node_modules/@loopback/core/dist/index.d.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./node_modules/@loopback/rest/index.d.ts"
-      ],
-      "./src/datasources/index.ts": [
-        "./src/datasources/gateway.datasource.ts"
-      ],
-      "./src/repositories/blockchains.repository.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./src/models/index.ts",
-        "./src/datasources/index.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts"
-      ],
-      "./src/repositories/applications.repository.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./src/models/index.ts",
-        "./src/datasources/index.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts"
-      ],
-      "./src/repositories/load-balancers.repository.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./src/models/index.ts",
-        "./src/datasources/index.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts"
-      ],
-      "./src/repositories/index.ts": [
-        "./src/repositories/blockchains.repository.ts",
-        "./src/repositories/applications.repository.ts",
-        "./src/repositories/load-balancers.repository.ts"
-      ],
-      "./src/controllers/blockchains.controller.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./node_modules/@loopback/rest/index.d.ts",
-        "./src/models/index.ts",
-        "./src/repositories/index.ts"
-      ],
-      "./src/controllers/ping.controller.ts": [
-        "./node_modules/@loopback/rest/index.d.ts",
-        "./node_modules/@loopback/context/dist/index.d.ts"
-      ],
-      "./node_modules/@types/ioredis/index.d.ts": [
-        "./node_modules/@types/node/tls.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/index.d.ts"
       ],
       "./src/services/cherry-picker.ts": [
@@ -4463,6 +4458,10 @@
       "./src/services/logger.ts": [
         "./node_modules/@loopback/rest/index.d.ts",
         "./node_modules/winston-logzio/lib/winston-logzio.d.ts"
+      ],
+      "./src/services/relay-profiler.ts": [
+        "./node_modules/@pokt-network/pocket-js/dist/index.d.ts",
+        "./node_modules/@types/pg/index.d.ts"
       ],
       "./node_modules/@types/keyv/index.d.ts": [
         "./node_modules/@types/node/events.d.ts",
@@ -5901,6 +5900,131 @@
       "./node_modules/@pokt-network/pocket-js/dist/keybase/models/account.d.ts": [
         "./node_modules/@types/node/index.d.ts"
       ],
+      "./src/application.ts": [
+        "./node_modules/@loopback/boot/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./node_modules/loopback-datasource-juggler/index.d.ts",
+        "./node_modules/@loopback/rest/index.d.ts"
+      ],
+      "./src/index.ts": [
+        "./src/application.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
+      ],
+      "./node_modules/@types/superagent/index.d.ts": [
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/cookiejar/index.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@types/supertest/index.d.ts": [
+        "./node_modules/@types/superagent/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/client.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/supertest/index.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/expect.d.ts": [
+        "./node_modules/@loopback/testlab/should-as-function.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": [
+        "./node_modules/@types/express/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": [
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/request.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@types/shot/index.d.ts": [
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/shot.d.ts": [
+        "./node_modules/@types/express/index.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/shot/index.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@types/sinon/index.d.ts": [
+        "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts": [
+        "./node_modules/@types/sinon/index.d.ts"
+      ],
+      "./node_modules/@loopback/testlab/dist/index.d.ts": [
+        "./node_modules/@loopback/testlab/dist/client.d.ts",
+        "./node_modules/@loopback/testlab/dist/expect.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
+        "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
+        "./node_modules/@loopback/testlab/dist/request.d.ts",
+        "./node_modules/@loopback/testlab/dist/shot.d.ts",
+        "./node_modules/@loopback/testlab/dist/sinon.d.ts",
+        "./node_modules/@loopback/testlab/dist/skip.d.ts",
+        "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
+        "./node_modules/@loopback/testlab/dist/to-json.d.ts",
+        "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts"
+      ],
+      "./src/__tests__/acceptance/test-helper.ts": [
+        "./src/index.ts",
+        "./node_modules/@loopback/testlab/dist/index.d.ts"
+      ],
+      "./src/models/blockchains.model.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/models/applications.model.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/models/load-balancers.model.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/models/index.ts": [
+        "./src/models/blockchains.model.ts",
+        "./src/models/applications.model.ts",
+        "./src/models/load-balancers.model.ts"
+      ],
+      "./src/datasources/gateway.datasource.ts": [
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./node_modules/@loopback/core/dist/index.d.ts"
+      ],
+      "./src/datasources/index.ts": [
+        "./src/datasources/gateway.datasource.ts"
+      ],
+      "./src/repositories/blockchains.repository.ts": [
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./src/models/index.ts"
+      ],
+      "./src/repositories/applications.repository.ts": [
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./src/models/index.ts"
+      ],
+      "./src/repositories/load-balancers.repository.ts": [
+        "./src/datasources/index.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts",
+        "./src/models/index.ts"
+      ],
+      "./src/repositories/index.ts": [
+        "./src/repositories/blockchains.repository.ts",
+        "./src/repositories/applications.repository.ts",
+        "./src/repositories/load-balancers.repository.ts"
+      ],
+      "./src/controllers/blockchains.controller.ts": [
+        "./src/repositories/index.ts",
+        "./src/models/index.ts",
+        "./node_modules/@loopback/repository/dist/index.d.ts"
+      ],
+      "./src/controllers/ping.controller.ts": [
+        "./node_modules/@loopback/rest/index.d.ts"
+      ],
       "./node_modules/@pokt-network/pocket-js/dist/config/index.d.ts": [
         "./node_modules/@pokt-network/pocket-js/dist/config/configuration.d.ts"
       ],
@@ -6448,147 +6572,18 @@
         "./node_modules/@pokt-network/pocket-js/dist/utils/index.d.ts",
         "./node_modules/@pokt-network/pocket-js/dist/pocket.d.ts"
       ],
+      "./node_modules/@types/ioredis/index.d.ts": [
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/index.d.ts"
+      ],
       "./node_modules/@types/pg/index.d.ts": [
         "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/stream.d.ts",
         "./node_modules/pg-types/index.d.ts",
         "./node_modules/@types/node/tls.d.ts",
         "./node_modules/@types/pg/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./src/services/relay-profiler.ts": [
-        "./node_modules/@types/pg/index.d.ts",
-        "./node_modules/@pokt-network/pocket-js/dist/index.d.ts"
-      ],
-      "./src/application.ts": [
-        "./node_modules/@loopback/boot/dist/index.d.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./node_modules/loopback-datasource-juggler/index.d.ts",
-        "./node_modules/@loopback/rest/index.d.ts"
-      ],
-      "./src/index.ts": [
-        "./src/application.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts"
-      ],
-      "./node_modules/@types/superagent/index.d.ts": [
-        "./node_modules/@types/node/fs.d.ts",
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/cookiejar/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@types/supertest/index.d.ts": [
-        "./node_modules/@types/superagent/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/client.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/supertest/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/expect.d.ts": [
-        "./node_modules/@loopback/testlab/should-as-function.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts": [
-        "./node_modules/@types/express/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts": [
-        "./node_modules/@types/node/https.d.ts",
-        "./node_modules/@types/node/net.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/request.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/https.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@types/shot/index.d.ts": [
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/shot.d.ts": [
-        "./node_modules/@types/express/index.d.ts",
-        "./node_modules/@types/node/http.d.ts",
-        "./node_modules/@types/shot/index.d.ts",
-        "./node_modules/@types/node/index.d.ts"
-      ],
-      "./node_modules/@types/sinon/index.d.ts": [
-        "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/sinon.d.ts": [
-        "./node_modules/@types/sinon/index.d.ts"
-      ],
-      "./node_modules/@loopback/testlab/dist/index.d.ts": [
-        "./node_modules/@loopback/testlab/dist/client.d.ts",
-        "./node_modules/@loopback/testlab/dist/expect.d.ts",
-        "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
-        "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
-        "./node_modules/@loopback/testlab/dist/request.d.ts",
-        "./node_modules/@loopback/testlab/dist/shot.d.ts",
-        "./node_modules/@loopback/testlab/dist/sinon.d.ts",
-        "./node_modules/@loopback/testlab/dist/skip.d.ts",
-        "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
-        "./node_modules/@loopback/testlab/dist/to-json.d.ts",
-        "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts"
-      ],
-      "./src/__tests__/acceptance/test-helper.ts": [
-        "./src/index.ts",
-        "./node_modules/@loopback/testlab/dist/index.d.ts"
-      ],
-      "./src/models/blockchains.model.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/models/applications.model.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/models/load-balancers.model.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/models/index.ts": [
-        "./src/models/blockchains.model.ts",
-        "./src/models/applications.model.ts",
-        "./src/models/load-balancers.model.ts"
-      ],
-      "./src/datasources/gateway.datasource.ts": [
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./node_modules/@loopback/core/dist/index.d.ts"
-      ],
-      "./src/datasources/index.ts": [
-        "./src/datasources/gateway.datasource.ts"
-      ],
-      "./src/repositories/blockchains.repository.ts": [
-        "./src/datasources/index.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./src/models/index.ts"
-      ],
-      "./src/repositories/applications.repository.ts": [
-        "./src/datasources/index.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./src/models/index.ts"
-      ],
-      "./src/repositories/load-balancers.repository.ts": [
-        "./src/datasources/index.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts",
-        "./src/models/index.ts"
-      ],
-      "./src/repositories/index.ts": [
-        "./src/repositories/blockchains.repository.ts",
-        "./src/repositories/applications.repository.ts",
-        "./src/repositories/load-balancers.repository.ts"
-      ],
-      "./src/controllers/blockchains.controller.ts": [
-        "./src/repositories/index.ts",
-        "./src/models/index.ts",
-        "./node_modules/@loopback/repository/dist/index.d.ts"
-      ],
-      "./src/controllers/ping.controller.ts": [
-        "./node_modules/@loopback/rest/index.d.ts"
-      ],
-      "./node_modules/@types/ioredis/index.d.ts": [
-        "./node_modules/@types/node/tls.d.ts",
-        "./node_modules/@types/node/stream.d.ts",
-        "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/index.d.ts"
       ],
       "./src/services/cherry-picker.ts": [
@@ -7050,6 +7045,42 @@
       "./node_modules/@loopback/rest/index.d.ts",
       "./src/sequence.ts",
       "./node_modules/@pokt-network/pocket-js/dist/keybase/models/account.d.ts",
+      "./src/index.ts",
+      "./src/migrate.ts",
+      "./node_modules/@types/cookiejar/index.d.ts",
+      "./node_modules/@types/superagent/index.d.ts",
+      "./node_modules/@types/supertest/index.d.ts",
+      "./node_modules/@loopback/testlab/dist/client.d.ts",
+      "./node_modules/@loopback/testlab/should-as-function.d.ts",
+      "./node_modules/@loopback/testlab/dist/expect.d.ts",
+      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
+      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
+      "./node_modules/@loopback/testlab/dist/request.d.ts",
+      "./node_modules/@types/shot/index.d.ts",
+      "./node_modules/@loopback/testlab/dist/shot.d.ts",
+      "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts",
+      "./node_modules/@types/sinon/index.d.ts",
+      "./node_modules/@loopback/testlab/dist/sinon.d.ts",
+      "./node_modules/@loopback/testlab/dist/skip.d.ts",
+      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
+      "./node_modules/@loopback/testlab/dist/to-json.d.ts",
+      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
+      "./node_modules/@loopback/testlab/dist/index.d.ts",
+      "./src/__tests__/acceptance/test-helper.ts",
+      "./src/__tests__/acceptance/home-page.acceptance.ts",
+      "./src/__tests__/acceptance/ping.controller.acceptance.ts",
+      "./src/models/blockchains.model.ts",
+      "./src/models/applications.model.ts",
+      "./src/models/load-balancers.model.ts",
+      "./src/models/index.ts",
+      "./src/datasources/gateway.datasource.ts",
+      "./src/datasources/index.ts",
+      "./src/repositories/blockchains.repository.ts",
+      "./src/repositories/applications.repository.ts",
+      "./src/repositories/load-balancers.repository.ts",
+      "./src/repositories/index.ts",
+      "./src/controllers/blockchains.controller.ts",
+      "./src/controllers/ping.controller.ts",
       "./node_modules/@pokt-network/pocket-js/dist/config/configuration.d.ts",
       "./node_modules/@pokt-network/pocket-js/dist/config/index.d.ts",
       "./node_modules/@pokt-network/pocket-js/dist/keybase/models/unlocked-account.d.ts",
@@ -7197,47 +7228,10 @@
       "./node_modules/@pokt-network/pocket-js/dist/utils/validator.d.ts",
       "./node_modules/@pokt-network/pocket-js/dist/utils/index.d.ts",
       "./node_modules/@pokt-network/pocket-js/dist/index.d.ts",
+      "./node_modules/@types/ioredis/index.d.ts",
       "./node_modules/pg-types/index.d.ts",
       "./node_modules/@types/pg/index.d.ts",
-      "./src/services/relay-profiler.ts",
-      "./src/application.ts",
-      "./src/index.ts",
-      "./src/migrate.ts",
-      "./node_modules/@types/cookiejar/index.d.ts",
-      "./node_modules/@types/superagent/index.d.ts",
-      "./node_modules/@types/supertest/index.d.ts",
-      "./node_modules/@loopback/testlab/dist/client.d.ts",
-      "./node_modules/@loopback/testlab/should-as-function.d.ts",
-      "./node_modules/@loopback/testlab/dist/expect.d.ts",
-      "./node_modules/@loopback/testlab/dist/http-error-logger.d.ts",
-      "./node_modules/@loopback/testlab/dist/http-server-config.d.ts",
-      "./node_modules/@loopback/testlab/dist/request.d.ts",
-      "./node_modules/@types/shot/index.d.ts",
-      "./node_modules/@loopback/testlab/dist/shot.d.ts",
-      "./node_modules/@sinonjs/fake-timers/types/fake-timers-src.d.ts",
-      "./node_modules/@types/sinon/index.d.ts",
-      "./node_modules/@loopback/testlab/dist/sinon.d.ts",
-      "./node_modules/@loopback/testlab/dist/skip.d.ts",
-      "./node_modules/@loopback/testlab/dist/test-sandbox.d.ts",
-      "./node_modules/@loopback/testlab/dist/to-json.d.ts",
-      "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
-      "./node_modules/@loopback/testlab/dist/index.d.ts",
-      "./src/__tests__/acceptance/test-helper.ts",
-      "./src/__tests__/acceptance/home-page.acceptance.ts",
-      "./src/__tests__/acceptance/ping.controller.acceptance.ts",
-      "./src/models/blockchains.model.ts",
-      "./src/models/applications.model.ts",
-      "./src/models/load-balancers.model.ts",
-      "./src/models/index.ts",
-      "./src/datasources/gateway.datasource.ts",
-      "./src/datasources/index.ts",
-      "./src/repositories/blockchains.repository.ts",
-      "./src/repositories/applications.repository.ts",
-      "./src/repositories/load-balancers.repository.ts",
-      "./src/repositories/index.ts",
-      "./src/controllers/blockchains.controller.ts",
-      "./src/controllers/ping.controller.ts",
-      "./node_modules/@types/ioredis/index.d.ts",
+      "./src/services/cherry-picker.ts",
       "./src/services/metrics-recorder.ts",
       "./src/services/sync-checker.ts",
       "./node_modules/strong-cryptor/dist/typings/interface/index.d.ts",
@@ -7259,6 +7253,7 @@
       "./node_modules/winston-transport/index.d.ts",
       "./node_modules/winston-logzio/lib/winston-logzio.d.ts",
       "./src/services/logger.ts",
+      "./src/services/relay-profiler.ts",
       "./node_modules/@types/aes-js/index.d.ts",
       "./node_modules/@types/keyv/index.d.ts",
       "./node_modules/@types/http-cache-semantics/index.d.ts",
@@ -7278,7 +7273,7 @@
       "./node_modules/@types/scrypt-js/index.d.ts",
       "./node_modules/@types/type-is/index.d.ts",
       "./node_modules/@types/varint/index.d.ts",
-      "./src/services/cherry-picker.ts"
+      "./src/application.ts"
     ]
   },
   "version": "3.8.3"

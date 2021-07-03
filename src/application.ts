@@ -5,7 +5,6 @@ import {RestApplication, HttpErrors} from '@loopback/rest';
 import {ServiceMixin} from '@loopback/service-proxy';
 import {GatewaySequence} from './sequence';
 import {Account} from '@pokt-network/pocket-js/dist/keybase/models/account';
-import {RelayProfiler} from './services/relay-profiler';
 
 import * as path from 'path';
 const logger = require('./services/logger');
@@ -159,7 +158,7 @@ export class PocketGatewayApplication extends BootMixin(
     }
 
     const configuration = new Configuration(
-      0,
+      20,
       100000,
       0,
       120000,
@@ -171,8 +170,7 @@ export class PocketGatewayApplication extends BootMixin(
       true,
     );
     const rpcProvider = new HttpRpcProvider(dispatchers);
-    const relayProfiler = new RelayProfiler(pgPool);
-    const pocket = new Pocket(dispatchers, rpcProvider, configuration, undefined, relayProfiler);
+    const pocket = new Pocket(dispatchers, rpcProvider, configuration);
     
     // Bind to application context for shared re-use
     this.bind('pocketInstance').to(pocket);
