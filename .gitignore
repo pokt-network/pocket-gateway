@@ -18,6 +18,5 @@ node_modules
 *.swp
 */**/*.swp
 
-dist
 .env
 .tasks.env
